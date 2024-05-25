@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+output: html_document
+date: "2024-05-25"
+---
+
+Notas de aula 25/05/2024
+# Notas de aula
+
+## definição de extensão
+
+### 5 i 's da extensão
+
+1 interação dialógica
+2 interdisciplinaridade/interprofissionalidade
+3 iindissociabilidade ensino-pesquisa-extensão
+4 impacto social
+5 impacto na formação do aluno
